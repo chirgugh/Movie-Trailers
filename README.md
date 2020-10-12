@@ -18,5 +18,11 @@ Markup : -[] An uncompleted task
       *Use user avatar and allow user to upload image
       *Display each movies ratings from the DB
       
+ - [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+      
 
 
