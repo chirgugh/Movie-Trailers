@@ -8,6 +8,9 @@ Basic react project to show movie trailers using https://www.themoviedb.org/docu
 **Style to accomodate different views
 
 ## Extras
+Markup : - [ ] An uncompleted task
+         -[x] A completed task
+          
 **Setup Firebase
 **Allow users to rate a movie 
       *Need to login - use firebase authentication
